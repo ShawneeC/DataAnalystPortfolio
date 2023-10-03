@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Shawnee Casteel Analyst: Certifications</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Certifications</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<li class="active"><a href="index.html">NonProfit Donation Analysis</a></li>
+                        <li><a href="ExcelCalculations.html">Excel Calculations</a></li>
+							<li><a href="Workbook.html">Excel Workbook Collaboration</a></li>
+                            <li><a href="SQL.html">SQL</a></li>
+                            <li><a href="Certifications.html">Certifications</a></li>
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+					<!-- Post -->
+						<section class="post">
+							<header class="major">
+								<span class="date">Coursera</span>
+								<h3>Course Certificates Completed</h3>
+
+								<h3><u><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XFCS85NKHGA6" target="_blank"> Google Data Analytics Specialization</u></h3></a>
+
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/KNBHKN5AGT83" target="_blank"> Questions to Make Data-Driven Decisions</a></li>
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/L9XB9TLQQYPH" target="_blank"> Foundations: Data, Data, Everywhere</a></li>
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/AXRRXEG9XVTN" target="_blank"> Google Data Analytics Capstone: Complete a Case Study</a></li>
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/KB86TG5W2XPK" target="_blank"> Share Data Through the Art of Visualization</a></li>
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/WHMV5U9LNRR3" target="_blank"> Prepare Data for Exploration</a></li>
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/UU2ZV7DZQ85D" target="_blank"> Data Analysis with R Programming</a></li> 
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/3YXYSADN7RDR" target="_blank"> Analyze Data to Answer Questions</a></li>
+                                    
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/Y5EBXUWUMX8X" target="_blank"> Process Data from Dirty to Clean</a></li>
+								<br />
+								</p>
+							</header>
+                            <!-- Post -->
+						<section class="post">
+							<header class="major">
+								
+								<h3>Johns Hopkins University</h3>
+								
+
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/8DR6FCHLTRUC" target="_blank"> Getting Started with Data Visualization in R</a></li>
+
+								<br />
+								</p>
+							</header>
+
+                               <!-- Post -->
+						<section class="post">
+							<header class="major">
+								
+								<h3>Coursera Project Network</h3>
+								
+                                <li><a href="https://www.coursera.org/account/accomplishments/certificate/BCFR95GA48D3" target="_blank"> Building a Dynamic Web App using PHP & MySQL
+                                </a></li>
+
+								<br />
+								</p>
+							</header>
+							
+						
+				
+
+				
+
+			
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
